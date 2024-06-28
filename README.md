@@ -1,2 +1,2 @@
-TITANIC SURVIVAL PREDICTION
+TITANIC SURVIVAL PREDICTION -
 using the titanic dataset,building a model that predicts wheather a passenger on the titanic survived or not....
